@@ -5,6 +5,7 @@ Learn-to is an engaging educational adventure game designed to make learning fun
 
 ## Contract Address
 0x41f2F46355991306CAe06fae327FA2BfB751C878
+![image](https://github.com/user-attachments/assets/cf61e687-db02-4963-8e71-c1b08efbcf9b)
 
 ## Project Vision
 Our vision for Learn-to is to create an educational ecosystem where learning feels like an adventure. By gamifying the education process and incorporating blockchain for secure record-keeping, we aim to empower learners of all ages to pursue knowledge while having fun.
